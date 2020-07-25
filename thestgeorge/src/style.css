@@ -1,0 +1,183 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: #252122;
+
+}
+li{
+    list-style: none;
+}
+.logoImg{
+height: 100px;
+width: 200px;
+}
+.brandImg{
+    font-size: 25px;
+    color: #ad9d9d;
+    margin: 5px;
+
+}
+
+.header{
+    background-color: #423a3b;
+}
+
+.address{
+    color: #ad9d9d;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.navbar{
+    background-color: #252122;
+}
+.navbar a{
+    color: #ca2538 !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar-toggler{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img1{
+    width: 100%;
+    filter: brightness(50%);
+    height: 60vh;
+  
+}
+.photoText{
+    color: rgb(218, 216, 216);
+}
+
+.card-img-top{
+    height: 10rem;
+    filter: brightness(60%);
+
+}
+.cardSection{
+    background-color: #252122;
+    /* height: 600px; */
+}
+.card{
+    background-color: #423a3b;
+
+}
+.card-title{
+    color: #ad9d9d;
+}
+.card-text{
+    font-size: 25px;
+    color: #ad9d9d;
+}
+.top{
+    background-color:   #ca2538;
+    color: #e9dddd;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.card-p{
+    color: #ad9d9d;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.menu{
+    border: 1px solid  #ca2538 !important;
+    color: #e9dddd !important;
+}
+.menu:hover{
+    background-color:  #ca2538 ;
+}
+
+.card:hover{
+    filter: brightness(90%);
+}
+.recentNews {
+    background-color: #252122;
+    color:  #ca2538;
+
+}
+.eventCard{
+    background-color: #252122;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.eventImg{
+    height: 10rem;
+    /* width: 100%; */
+    filter: brightness(60%);
+}
+.eventCard:hover{
+    /* filter: brightness(20%); */
+
+}
+.eventText{
+    color: #ad9d9d;
+}
+.event-card-title{
+    color: #e9dddd;
+}
+.date{
+    color: #ad9d9d;
+
+}
+.nav-link:hover{
+    text-decoration: underline white
+}
+.horizCard{
+    background-color: #252122;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.evtImg{
+    height: 200px !important;
+    /* width: 400px; */
+    filter: brightness(50%);
+
+}
+.eventsTitle {
+    color:  #ca2538;
+
+}
+.eventsTitle:hover{
+    text-decoration: underline  #ca2538;
+}
+
+.dateText{
+    color:  #ca2538;
+
+}
+
+.evtTitle:hover{
+    text-decoration: underline #ca2538 !important;
+}
+.card{
+    border: none;
+}
+.evtText{
+    color: #e9dddd;
+
+}
+
+.aboutSection{
+    background-color: #423a3b;
+
+}
+
+.bgimg{
+    background-image:
+    linear-gradient(to bottom, #423a3b1c,#2521221e),
+    url('https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    /* background: url('https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260'); */
+    filter: brightness(50%);
+
+    height: 20rem;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-position: center;
+    /* background: linear-gradient(#6464641c, #9198e521); */
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
